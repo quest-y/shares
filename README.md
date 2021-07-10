@@ -1,2 +1,3 @@
 # shares
-Shares
+
+Just a few shares for convenience.
